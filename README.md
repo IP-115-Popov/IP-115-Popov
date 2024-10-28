@@ -26,7 +26,7 @@
    <img src="https://img.shields.io/badge/java-blue?style=for-the-badge&logo=Java&logoColor=white"/>
 </p>
 
-<h3>My Pet Projects</h3>
+<h3>Pet Проекты</h3>
 <p align="center">
   <a href="https://github.com/normss/aiCameraAttractions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=normss&repo=aiCameraAttractions" />
@@ -36,13 +36,13 @@
   </a>
 </p>
 
-<h3>GitHub Stats</h3>
+<h3>GitHub Статус</h3>
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=normss&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true&theme=transparent" alt="Sergey's GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IP-115-Popov&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true&theme=transparent" alt="Sergey's GitHub stats" />
   </a>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=normss&layout=compact&theme=transparent&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IP-115-Popov&layout=compact&theme=transparent&hide_border=true" />
   </a>
 </p>
 
