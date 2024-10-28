@@ -51,30 +51,12 @@
     <td align="center">
       <img height="32" width="32" src="https://cdn.simpleicons.org/git" /><br>Git
     </td>
-    <td align="center">
-      <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" /><br>PostgreSQL
-    </td>
-    <td align="center">
-      <img height="32" width="32" src="https://cdn.simpleicons.org/davinciresolve" /><br>DaVinci
-    </td>
-    <td align="center">
-      <img height="32" width="32" src="https://cdn.simpleicons.org/figma" /><br>Figma
-    </td>
-    <td align="center">
-      <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" /><br>Photoshop
-    </td>
-    <td align="center">
-      <img height="32" width="32" src="https://cdn.simpleicons.org/openai" /><br>ChatGPT
-    </td>
   </tr>
 </table>
 
 <h3 align="center">Contact Me</h3>
 <p align="center">
-  <a href="https://normno.t.me/">
+  <a href="https://t.me/Sergeyxdd">
     <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" />
-  </a>
-  <a href="https://discord.com/users/280213393837785090/">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/discord" />
   </a>
 </p>
