@@ -24,10 +24,10 @@
 
 <h3>My Pet Projects</h3>
 <p align="center">
-  <a href="https://github.com/IP-115-Popov/Health.git">
+  <a href="https://github.com/IP-115-Popov/Health">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergey&repo=Health" />
   </a>
-  <a href="https://github.com/IP-115-Popov/Stp.git">
+  <a href="https://github.com/IP-115-Popov/Stp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergey&repo=Stp" />
   </a>
 </p>
