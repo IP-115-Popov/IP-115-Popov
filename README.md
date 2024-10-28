@@ -16,6 +16,11 @@
   <li>🎞️ Interested in editing and design</li>
 </ul>
 
+<h3>мой стек технологий</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-blue ФОНА?style=for-the-badge&logo=Kotlin&logoColor=black"/>
+</p>
+
 <h3>My Favorite Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
