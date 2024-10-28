@@ -19,17 +19,31 @@
 <h3>Mой стек технологий</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Android Studio-87CEEB?style=for-the-badge&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack Compose-9ACD32?style=for-the-badge&logo=Jetpack Compose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-20B2AA?style=for-the-badge&logo=Gradle&logoColor=white"/>
+   <img src="https://img.shields.io/badge/java-blue?style=for-the-badge&logo=Java&logoColor=white"/>
 </p>
+
+<h3>My Pet Projects</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android Studio-87CEEB?style=for-the-badge&logo=Android Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack Compose-9ACD32?style=for-the-badge&logo=Jetpack Compose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-20B2AA?style=for-the-badge&logo=Gradle&logoColor=white"/>
+  <a href="https://github.com/normss/aiCameraAttractions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=normss&repo=aiCameraAttractions" />
+  </a>
+  <a href="https://github.com/normss/VpnFriendlyClient">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=normss&repo=VpnFriendlyClient" />
+  </a>
+</p>
+
+<h3>GitHub Stats</h3>
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=normss&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true&theme=transparent" alt="Sergey's GitHub stats" />
+  </a>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=normss&layout=compact&theme=transparent&hide_border=true" />
+  </a>
 </p>
 
 <h3>Дополнительные навыки</h3>
