@@ -20,9 +20,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Git-FF7F50?style=for-the-badge&logo=Git&logoColor=white"/>
-
+  
+  <img src="https://img.shields.io/badge/Android Studio-87CEEB?style=for-the-badge&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack Compose-00FF7F?style=for-the-badge&logo=Jetpack Compose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-20B2AA?style=for-the-badge&logo=Gradle&logoColor=white"/>
 </p>
 
 <h3>Additional Skills</h3>
