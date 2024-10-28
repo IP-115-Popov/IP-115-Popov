@@ -22,26 +22,6 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-<h3>My Pet Projects</h3>
-<p align="center">
-  <a href="https://github.com/IP-115-Popov/Health">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergey&repo=Health" />
-  </a>
-  <a href="https://github.com/IP-115-Popov/Stp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergey&repo=Stp" />
-  </a>
-</p>
-
-<h3>GitHub Stats</h3>
-<p align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=normss&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true&theme=transparent" alt="Sergey's GitHub stats" />
-  </a>
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=normss&layout=compact&theme=transparent&hide_border=true" />
-  </a>
-</p>
-
 <h3>Additional Skills</h3>
 <table align="center" border="0">
   <tr>
