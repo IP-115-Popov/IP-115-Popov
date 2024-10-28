@@ -16,15 +16,13 @@
   <li>🎞️ Interested in editing and design</li>
 </ul>
 
-<h3>мой стек технологий</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-blue ФОНА?style=for-the-badge&logo=Kotlin&logoColor=black"/>
-</p>
-
-<h3>My Favorite Programming Languages</h3>
+<h3>Mой стек технологий</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Git-#FF7F50?style=for-the-badge&logo=Git&logoColor=white"/>
+
 </p>
 
 <h3>Additional Skills</h3>
