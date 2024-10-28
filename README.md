@@ -5,15 +5,15 @@
 </h3>
 
 <p align="center">
-  I am passionate about new technologies in IT and mobile development
+  Я увлечен новыми технологиями в IT и мобильной разработке
 </p>
 
 <h3>Обо мне</h3>
 <ul>
-  <li>🔍 Actively seeking new job opportunities</li>
-  <li>📚 Passionate about learning something new every day</li>
-  <li>🏃 I like to run</li>
-  <li>🎞️ Interested in editing and design</li>
+  <li>🔍 Активно ищет новые возможности для трудоустройства</li>
+  <li>📚 Увлеченный изучением чего-то нового каждый день</li>
+  <li>🏃 Хожу в качалку</li>
+  <li>🎞️ Мне нравится создавать приложения</li>
 </ul>
 
 <h3>Mой стек технологий</h3>
