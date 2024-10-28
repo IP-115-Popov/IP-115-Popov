@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-<h3 align="center">Мои контакты/h3>
+<h3 align="center">Мои контакты </h3>
 <p align="center">
   <a href="https://t.me/Sergeyxdd">
     <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" />
