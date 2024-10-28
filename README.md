@@ -28,11 +28,11 @@
 
 <h3>Pet Проекты</h3>
 <p align="center">
-  <a href="https://github.com/normss/aiCameraAttractions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=normss&repo=aiCameraAttractions" />
+  <a href="https://github.com/IP-115-Popov/Health">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IP-115-Popov&repo=Health" />
   </a>
-  <a href="https://github.com/normss/VpnFriendlyClient">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=normss&repo=VpnFriendlyClient" />
+  <a href="https://github.com/IP-115-Popov/Stp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IP-115-Popov&repo=Stp" />
   </a>
 </p>
 
