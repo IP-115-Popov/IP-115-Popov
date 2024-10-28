@@ -12,8 +12,6 @@
 <ul>
   <li>🔍 Actively seeking new job opportunities</li>
   <li>📚 Passionate about learning something new every day</li>
-  <li>🌏 Aspiring to teach and mentor future mobile developers, and to host tech conferences</li>
-  <li>🔒 Launching and maintaining a VPN server for a large number of friends</li>
   <li>🏃 I like to run</li>
   <li>🎞️ Interested in editing and design</li>
 </ul>
@@ -22,16 +20,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
 <h3>My Pet Projects</h3>
 <p align="center">
-  <a href="https://github.com/normss/aiCameraAttractions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=normss&repo=aiCameraAttractions" />
+  <a href="https://github.com/IP-115-Popov/Health.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergey&repo=Health" />
   </a>
-  <a href="https://github.com/normss/VpnFriendlyClient">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=normss&repo=VpnFriendlyClient" />
+  <a href="https://github.com/IP-115-Popov/Stp.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergey&repo=Stp" />
   </a>
 </p>
 
